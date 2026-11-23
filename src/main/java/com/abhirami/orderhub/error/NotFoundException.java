@@ -1,4 +1,4 @@
-package com.abhirami.error;
+package com.abhirami.orderhub.error;
 
 public class NotFoundException extends RuntimeException {
 	public NotFoundException( String message) {

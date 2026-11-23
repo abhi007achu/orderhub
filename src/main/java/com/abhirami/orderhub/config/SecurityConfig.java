@@ -1,4 +1,4 @@
-package com.abhirami.config;
+package com.abhirami.orderhub.config;
 
 import org.flywaydb.core.internal.proprietaryStubs.AuthCommandExtensionStub;
 import org.springframework.context.annotation.Bean;

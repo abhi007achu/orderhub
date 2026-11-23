@@ -1,4 +1,4 @@
-package com.abhirami.error;
+package com.abhirami.orderhub.error;
 
 import java.io.ObjectInputStream.GetField;
 import java.time.Instant;
